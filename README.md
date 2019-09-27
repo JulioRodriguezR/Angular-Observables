@@ -12,7 +12,3 @@ ngOnDestroy()
 
 * Evitar pérdidas de memoria al no mantener suscripciones antiguas.
 * No es necesario darse de baja manualmente.# Observables
-
-Case study of Angular observables
-
-# 
