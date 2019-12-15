@@ -1,7 +1,5 @@
 # Observables
 
-Case study of Angular observables.
-
 * Envuelven una fuente de eventos.
 * Implementándose según patrón => Observable - Observer.
 * Óptimo para tratar tareas asincrónicas.
