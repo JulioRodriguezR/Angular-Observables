@@ -6,9 +6,7 @@
 * Posibilidad de poder brindar datos, errores o completar el obj según el paquete de datos que reciba el observer.
 * Uso de subscribe()
 
-***Los observables son construcciones a las que subscribirnos para estar informado sobre los cambios en los datos*** 
-
-# 
+***Los observables son construcciones a las que subscribirnos para estar informado sobre los cambios en los datos*** .
 
 ngOnDestroy()
 
