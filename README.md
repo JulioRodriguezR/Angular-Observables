@@ -1,4 +1,4 @@
-# Observables :volcano:
+# Observables
 
 ***Los observables son construcciones a las que subscribirnos para estar informado sobre los cambios en los datos***.
 
