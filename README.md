@@ -1,4 +1,4 @@
-# Observables :volcano:
+# Observables
 
 * Envuelven una fuente de eventos.
 * Implementándose según patrón => Observable - Observer.
